@@ -1,108 +1,163 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:7c3aed,100:2563eb&height=210&section=header&text=Jonard%20Marfa&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=18" alt="Jonard Marfa banner" />
+
 <div align="center">
 
-Hi, I'm Jonard Marfa 👋
 
-Computer Engineering Student · Aspiring Software Engineer
 
-I build practical software solutions using web development, computer vision, and optimization.
+
+
+
 
 
 
 
 </div>
 
-About Me
+👨‍💻 About Me
 
-🎓 Fourth-year BS Computer Engineering student at Batangas State University
+const jonard = {
+  location: "Batangas, Philippines 🇵🇭",
+  education: "BS Computer Engineering @ Batangas State University",
+  role: "Aspiring Software Engineer",
+  interests: [
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Computer Vision",
+    "Software Optimization"
+  ],
+  currentlyBuilding: "Dynamic Seating Framework",
+  goal: "Build practical software that solves real-world problems",
+  openToOpportunities: true
+};
 
-💻 Focused on software engineering, full-stack development, and artificial intelligence
+🔭 Developing a framework that improves visibility in camera-monitored examination rooms
 
-🔭 Currently developing a Dynamic Seating Framework for camera-monitored examination rooms
+🌱 Strengthening my knowledge of JavaScript, backend development, and algorithms
 
-🌱 Strengthening my skills in JavaScript, Java, Python, backend development, and algorithms
+💡 Interested in software engineering, intelligent systems, and practical automation
 
-🚀 Open to internship, entry-level, and collaborative software-development opportunities
+🤝 Open to internships, entry-level roles, and collaborative projects
 
-Technologies and Tools
+🛠️ Tech Stack
 
-<div align="center">
+💻 Programming Languages
 
+<img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,c" alt="Programming languages" />
 
+🎨 Frontend Development
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="Frontend technologies" />
 
-Featured Projects
+⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,flask" alt="Backend technologies" />
+
+💾 Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+
+🔧 Tools and Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,docker,linux,arduino" alt="Tools and platforms" />
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
+</p>
+
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Dynamic Seating Framework
+🎓 Dynamic Seating Framework
 
-A Python framework that optimizes classroom seating layouts to improve student visibility and reduce occlusion in camera-monitored examination rooms.
+Optimizes classroom seating layouts to increase student visibility and reduce camera occlusion during monitored examinations.
 
-Python OpenCV NumPy Shapely DEAP Matplotlib
+Built with: Python, OpenCV, NumPy, Shapely, DEAP and Matplotlib
 
 </td>
 <td width="50%" valign="top">
 
-OpenCV Parking Management System
+🚗 Parking Management System
 
-A parking management application that uses YOLO and computer vision to identify vehicle types and plate numbers, log vehicles, and calculate parking fees.
+Uses YOLO and computer vision to detect vehicle types and plate numbers, record entries, and calculate parking fees.
 
-Python YOLO OpenCV PyQt6
+Built with: Python, YOLO, OpenCV and PyQt6
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-Freelance Job Platform
+💼 Freelance Job Platform
 
-A Django-based platform connecting freelancers with employers through separate accounts, job discovery, and hiring-focused features.
+Connects freelancers and employers through separate account types, job discovery, postings, and hiring features.
 
-Python Django HTML CSS JavaScript
+Built with: Django, Python, HTML, CSS and JavaScript
 
 </td>
 <td width="50%" valign="top">
 
-Apartment Management System
+🏢 Apartment Management System
 
-A role-based web application for tenants and landlords featuring announcements, payment tracking, complaints, and leave requests.
+Provides role-based dashboards for tenants and landlords, including payments, announcements, reports, and leave requests.
 
-Java Spring Boot Thymeleaf Spring Security MySQL
+Built with: Java, Spring Boot, Thymeleaf, Spring Security and MySQL
 
 </td>
 </tr>
 </table>
 
-GitHub Activity
+📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shinnbeegpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jonard's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinnbeegpp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jonard's most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shinnbeegpp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Jonard's GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinnbeegpp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Jonard's most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=Shinnbeegpp&theme=tokyonight&hide_border=true" alt="Jonard's GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Shinnbeegpp&theme=tokyonight&hide_border=true" alt="Jonard's GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinnbeegpp&theme=tokyo-night&hide_border=true&area=true" alt="Jonard's contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shinnbeegpp&bg_color=0d1117&color=8b5cf6&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Jonard's contribution activity graph" />
 
 </div>
 
-Let's Connect
-
-I'm interested in opportunities where I can grow as a developer, contribute to real projects, and build software that solves practical problems.
+🏆 GitHub Achievements
 
 <div align="center">
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=Shinnbeegpp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Jonard's GitHub trophies" />
 
 </div>
 
-<!--
-SETUP:
-1. Create a PUBLIC repository named exactly: Shinnbeegpp
-2. Add this content to its README.md file.
-3. Pin your strongest repositories from your GitHub profile's "Customize your pins" option.
-4. Replace or link the Apartment Management System title when its repository is public.
--->
+🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shinnbeegpp/Shinnbeegpp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shinnbeegpp/Shinnbeegpp/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shinnbeegpp/Shinnbeegpp/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+📫 Connect With Me
+
+<div align="center">
+
+Open to software-development opportunities and interesting collaborations!
+
+
+
+
+“First, solve the problem. Then, write the code.”
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:6d28d9&height=120&section=footer" alt="Footer" />
+
+<!-- Replace the # in the Portfolio button with your deployed portfolio URL. -->
