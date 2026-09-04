@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A855F7&height=190&section=header&text=Jonard%20Marfa&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=59&descSize=16" alt="Jonard Marfa profile header" />
 
 <div align="center">
@@ -24,12 +23,12 @@ I build practical web applications and computer-vision systems.
 
 <br />
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub</h3>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shinnbeegpp&show_icons=true&hide_border=true&bg_color=00000000&title_color=A855F7&icon_color=C084FC&text_color=A1A1AA&rank_icon=github" alt="Jonard's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinnbeegpp&layout=compact&hide_border=true&bg_color=00000000&title_color=A855F7&text_color=A1A1AA" alt="Jonard's most used languages" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Shinnbeegpp?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=18181B&color=7C3AED" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Shinnbeegpp?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=18181B&color=A855F7" alt="GitHub stars" />
+</p>
 
 <br />
 
