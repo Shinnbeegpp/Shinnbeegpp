@@ -2,14 +2,9 @@
 
 <h3 align="center">Hi, I'm Jonard 👋</h3>
 
-About Me
-
 🎓 Fourth-year Computer Engineering student
-
 💻 I build practical web applications and computer-vision systems
-
 🎯 Focused on full-stack development, software engineering, and AI
-
 🚀 Open to web and software development opportunities
 
 <br />
